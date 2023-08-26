@@ -95,6 +95,7 @@ h1.alert, h2.alert		{color: #000000;}
 .german					{color: #001FFF}
 .neohongo               {color: #993399}
 .latin                  {color: #deb63d}
+.paleochinese           {color: #ab665f}
 
 .interface				{color: #330033;}
 

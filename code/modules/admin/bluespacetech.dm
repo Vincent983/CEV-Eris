@@ -89,6 +89,7 @@ ADMIN_VERB_ADD(/client/proc/cmd_dev_bst, R_ADMIN|R_DEBUG, TRUE)
 	bst.add_language(LANGUAGE_CULT)
 	bst.add_language(LANGUAGE_OCCULT)
 	bst.add_language(LANGUAGE_BLITZ)
+	bst.add_language(LANGUAGE_PALEOCHINESE)
 
 	spawn(10)
 		bst_post_spawn(bst)

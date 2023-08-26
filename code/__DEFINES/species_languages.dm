@@ -41,6 +41,7 @@
 #define LANGUAGE_CULT "Cult"
 #define LANGUAGE_OCCULT "Occult"
 #define LANGUAGE_BLITZ "Blitzshell Communique"
+#define LANGUAGE_PALEOCHINESE "Paleochinese"
 
 // Language flags.
 #define WHITELISTED  1   // Language is available if the speaker is whitelisted.
