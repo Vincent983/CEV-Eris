@@ -3,7 +3,7 @@
     desc = "The language used by an empire long past."
     colour = "paleochinese"
     key = "p"
-    shorthand = "chi"
+    shorthand = "CHI"
     
 /datum/language/paleochinese/syllables = list(
 "a", "ai", "an", "ang", "ao", "ba", "bai", "ban", "bang", "bao", "bei", "ben", "beng", "bi", "bian", "biao",
